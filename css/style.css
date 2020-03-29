@@ -1073,6 +1073,7 @@ section.services .service-item:hover .icon {
 section.portfolio{
     background-color: #f5f5f5;
 }
+
 section.portfolio .portfolio-filter {
     margin-bottom: 40px;
 }
