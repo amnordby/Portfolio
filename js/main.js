@@ -177,7 +177,7 @@ $(function() {
 
 
     /*========Contact Form Setup========*/
-    $('#contact-form').on('submit', function(e) {
+   /* $('#contact-form').on('submit', function(e) {
         e.preventDefault();
         var uri = $(this).attr('action');
         $('#form-submit').val('Wait...');
@@ -225,7 +225,7 @@ $(function() {
     $(".con-validate").keyup(function() {
         $(this).removeClass('con-error');
     });
-
+    */
     /********** Adding Alert Box **********/
     $('#contact-submit').before('<div class="alert-container"></div>');
 
